@@ -50,13 +50,13 @@ const Index = () => {
       <section className="relative min-h-screen flex items-center justify-center px-4">
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-30"
-          style={{ backgroundImage: `url(/img/43fd4a0e-ea96-4ae4-a830-56ace5d7c7ff.jpg)` }}
+          style={{ backgroundImage: `url(/img/58fe3451-35da-4792-8f92-65014adb344c.jpg)` }}
         />
         <div className="relative z-10 text-center max-w-4xl mx-auto">
           <div className="mb-8 animate-fade-in">
             <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-4 border-primary/30 shadow-xl">
               <img 
-                src="/img/43fd4a0e-ea96-4ae4-a830-56ace5d7c7ff.jpg" 
+                src="/img/58fe3451-35da-4792-8f92-65014adb344c.jpg" 
                 alt="Молодожёны"
                 className="w-full h-full object-cover"
               />
