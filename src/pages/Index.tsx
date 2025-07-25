@@ -62,7 +62,7 @@ const Index = () => {
               />
             </div>
             <h1 className="text-6xl md:text-8xl font-heading font-light text-primary mb-4">
-              Анна & Михаил
+              Гамлет & Карина
             </h1>
             <p className="text-xl md:text-2xl font-body text-secondary mb-8">
               Приглашаем вас разделить с нами самый важный день нашей жизни
@@ -271,7 +271,7 @@ const Index = () => {
               className="w-24 h-24 rounded-full mx-auto mb-4 object-cover border-4 border-primary/20"
             />
             <p className="font-heading text-2xl text-primary mb-4">
-              С любовью, Анна и Михаил
+              С любовью, Гамлет и Карина
             </p>
             <p className="font-body text-secondary">
               Мы не можем дождаться, чтобы отпраздновать с вами!
